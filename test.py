@@ -20,3 +20,4 @@ if __name__ == '__main__':
     print(stop - start, 'sec')
 
 # This file is changed.
+# This is a test comment.
